@@ -13,7 +13,7 @@ This application is a ToDo list built with React. It allows you to create, read,
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/react-todo-app.git
+    git clone https://github.com/Mamadou2518/ToDo-App.git
     cd react-todo-app
     ```
 
