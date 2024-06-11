@@ -14,7 +14,7 @@ This application is a ToDo list built with React. It allows you to create, read,
 
     ```bash
     git clone https://github.com/Mamadou2518/ToDo-App.git
-    cd react-todo-app
+    cd Todo-App
     ```
 
 2. Install dependencies:
